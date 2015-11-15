@@ -24,6 +24,8 @@ class TestCase extends Illuminate\Foundation\Testing\TestCase
     }
 
     /**
+     * 初始化mock物件
+     *
      * @param string $class
      * @return Mockery
      */
